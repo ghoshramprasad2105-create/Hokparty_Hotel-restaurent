@@ -1,0 +1,22 @@
+{
+  "name": "HOKPARTY Hotel & Restaurant",
+  "short_name": "HOKPARTY",
+  "description": "Premium dining experience in Jayrambati - Indian and Bengali cuisine.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFF8F2",
+  "theme_color": "#8B0000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./file:///C:/Users/RAMPRASAD%20GHOSH/.gemini/antigravity/brain/953ed6cd-d87e-4850-9951-c3ec99a78892/hero_cover_1773156076735.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./file:///C:/Users/RAMPRASAD%20GHOSH/.gemini/antigravity/brain/953ed6cd-d87e-4850-9951-c3ec99a78892/hero_cover_1773156076735.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
